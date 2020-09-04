@@ -25,5 +25,12 @@ Answer 5
     Untracked files:
       (use "git add <file>..." to include in what will be committed)
         answers.md
+Answer 6
+    No commits yet
 
-
+    Changes to be committed:
+      (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+Answer 7
+    
