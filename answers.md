@@ -48,3 +48,16 @@ Answer 8
 
         Initial commit
 Answer 9
+    Your branch is up to date with 'origin/master'.
+
+    Changes to be committed:
+      (use "git restore --staged <file>..." to unstage)
+        modified:   answers.md
+Answer 10
+    no
+Answer 11
+    failed to push because the remote repo has changes that the local doesn't.
+Answer 12
+    yes
+Answer 13
+    .        ..        .git        .gitignore    README.md
