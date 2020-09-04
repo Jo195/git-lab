@@ -33,4 +33,18 @@ Answer 6
         new file:   README.md
         new file:   answers.md
 Answer 7
-    
+    [master 9494fd1] Initial commit
+    1 file changed, 8 insertions(+), 1 deletion(-)
+Answer 8
+    commit 9494fd1474cefe27e752b4761f545b08457a7738 (HEAD -> master)
+    Author: Jo Aquino <ja596520@ohio.edu>
+    Date:   Fri Sep 4 14:59:10 2020 -0400
+
+        Initial commit
+
+    commit 11b2edbe8c837390346871c3718114df9c49ecb8
+    Author: Jo Aquino <ja596520@ohio.edu>
+    Date:   Fri Sep 4 14:52:59 2020 -0400
+
+        Initial commit
+Answer 9
